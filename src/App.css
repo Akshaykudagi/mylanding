@@ -138,6 +138,10 @@ section.contact-block {
     .before-border-small:before {
       display: none;
   }
+  .sale-info a{
+    font-weight: 400;
+}
+  .brdr-right:before{display:none;}
   #root {
     padding: 0.5rem;
 }
