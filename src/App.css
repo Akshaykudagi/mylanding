@@ -138,9 +138,14 @@ section.contact-block {
     .before-border-small:before {
       display: none;
   }
-  div#root {
-    padding: 1rem;
+  #root {
+    padding: 0.5rem;
 }
+.contact-block {
+  padding: 50px 0;
+  padding-bottom: 0;
+}
+
   .mobile-center{justify-content: center;}
   }
 

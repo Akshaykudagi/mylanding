@@ -5,7 +5,7 @@ import watsupIcon from '../assets/watsup.png';
 
 function Banner() {
   return (
-    <section className="bg-color-pr py-16 px-16 pl-10">
+    <section className="Banner banner-form bg-color-pr py-16 px-16 pl-10">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8">
         
         {/* Left: Image */}
