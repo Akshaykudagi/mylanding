@@ -137,6 +137,9 @@ section.contact-block {
     .before-border-small:before {
       display: none;
   }
+  div#root {
+    padding: 1rem;
+}
   .mobile-center{justify-content: center;}
   }
 }
