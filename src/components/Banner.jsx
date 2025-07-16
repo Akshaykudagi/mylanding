@@ -19,10 +19,11 @@ function Banner() {
 
         {/* Right: Content */}
         <div className="w-full md:w-1/2 text-center md:text-left">
-          <h1 className="font-bold text-white	md:text-6xl	 mb-4">
-          Discover your
-          Dream Home
-          </h1>
+        <h1 className="font-bold text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-4">
+  Discover your<br />
+  Dream Home
+</h1>
+
           <p className="text-sm text-white mb-6">
             Contact us to day for Exclusive listings and expert advise
           </p>

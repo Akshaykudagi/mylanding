@@ -141,6 +141,9 @@ section.contact-block {
   .sale-info a{
     font-weight: 400;
 }
+.Banner.banner-form {
+  padding: 1.5rem;
+}
   .brdr-right:before{display:none;}
   #root {
     padding: 0.5rem;
